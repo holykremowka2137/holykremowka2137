@@ -1,16 +1,13 @@
-### Hi there 👋
+# Who are you
+Yo! I'm Victoria. You can also find me by nick 5fr4ewq.
 
-<!--
-**holykremowka2137/holykremowka2137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My interests are: linux, tiling window managers, manga/manhwa/manhua, cats and women.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Software I'm using
+WM: Qtile
+Browser: Librewolf, Vivaldi
+File manager: Nemo, lf
+Terminal: Alacritty
+Editor: Neovim (NvChad), Xed
+Shell: fish
+Application launcher: Rofi
