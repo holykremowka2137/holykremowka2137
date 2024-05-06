@@ -1,13 +1,11 @@
 # Who are you
-Yo! I'm Victoria. You can also find me by nick 5fr4ewq or Kremowka.
-
-My interests are: linux, tiling WM, Fish shell lang, manga/manhwa/manhua, cats and women.
+Yo! I'm Victoria. Nothing much in here.
 
 # Software I'm using
-- WM: Qtile
+- Distro: EndeavourOS
+- DE: KDE Plasma 6
 - Browser: Librewolf
-- File manager: Thunar, Yazi
-- Terminal: Foot
-- Editor: Neovim
+- File manager: Dolphin, Yazi
+- Terminal: Konsole
+- Editor: Kate
 - Shell: Fish
-- Application launcher: Rofi
